@@ -1,7 +1,8 @@
 body{
    /*background: red;*/
     background-image: url("C:/Users/Ruann01/Pictures/fundo.jpg");
-    background-size: 500px;
+    background-size: auto 250vh;
+    height: 200vh;
 }
 
 .menu{
